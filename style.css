@@ -1,4 +1,4 @@
-use this css.navbar {
+.navbar {
   background-color: #333;
   font-size: 1.2em;
   padding: 1em;
@@ -15,7 +15,6 @@ use this css.navbar {
   padding: 0;
 }
 
-/* FIXED */
 .navbar ul li {
   display: inline;
   margin: 0 1em;
@@ -79,7 +78,6 @@ section {
 
 .portfolio-item:hover {
   transform: scale(1.05);
-  
 }
 
 #footer {
